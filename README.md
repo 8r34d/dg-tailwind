@@ -1,6 +1,6 @@
 # dg-tailwind
 
-A record of my course progress
+My course progress
 
 ## Tailwind Course
 
@@ -15,3 +15,15 @@ https://www.youtube.com/@DaveGrayTeachesCode
 https://github.com/gitdagray
 
 ---
+
+## Tailwind
+
+_v3.3.3_
+
+https://tailwindcss.com/docs/installation
+
+## Lessons
+
+### Lesson 01
+
+![Lesson-01](lessons/lesson-01.png)
