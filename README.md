@@ -8,6 +8,8 @@ Tailwind CSS Full Course for Beginners | Complete All-in-One Tutorial | 3 Hours 
 
 https://www.youtube.com/watch?v=lCxcTsOHrjo
 
+https://github.com/gitdagray/tailwind-css-course
+
 ## Dave Gray
 
 https://www.youtube.com/@DaveGrayTeachesCode
