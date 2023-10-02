@@ -1,6 +1,6 @@
 # dg-tailwind
 
-My course progress
+My course progress using Tailwind v3.3.3
 
 ## Tailwind Course
 
@@ -31,3 +31,7 @@ https://tailwindcss.com/docs/installation
 https://github.com/8r34d/dg-tailwind/tree/lesson-01
 
 ![Lesson-01](lessons/lesson-01.png)
+
+### Lesson 02
+
+https://github.com/8r34d/dg-tailwind/tree/lesson-02
