@@ -35,3 +35,19 @@ https://github.com/8r34d/dg-tailwind/tree/lesson-01
 ### Lesson 02
 
 https://github.com/8r34d/dg-tailwind/tree/lesson-02
+
+#### Dark - Desktop
+
+![Lesson-02-Dark-Desktop](lessons/lesson-02-dark-desktop.png)
+
+#### Dark - Mobile
+
+![Lesson-02-Dark-Mobile](/lessons/lesson-02-dark-mobile.png)
+
+#### Light - Desktop
+
+![Lesson-02-Light-Desktop](/lessons/lesson-02-light-desktop.png)
+
+#### Light - Mobile
+
+![Lesson-02-Light-Mobile](/lessons/lesson-02-light-mobile.png)
