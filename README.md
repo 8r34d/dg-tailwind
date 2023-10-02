@@ -26,4 +26,6 @@ https://tailwindcss.com/docs/installation
 
 ### Lesson 01
 
+https://github.com/8r34d/dg-tailwind/tree/lesson-01
+
 ![Lesson-01](lessons/lesson-01.png)
