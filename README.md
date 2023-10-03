@@ -30,24 +30,26 @@ https://tailwindcss.com/docs/installation
 
 https://github.com/8r34d/dg-tailwind/tree/lesson-01
 
-![Lesson-01](lessons/lesson-01.png)
-
 ### Lesson 02
 
 https://github.com/8r34d/dg-tailwind/tree/lesson-02
 
+### Lesson 03
+
+https://github.com/8r34d/dg-tailwind/tree/lesson-03
+
 #### Dark - Desktop
 
-![Lesson-02-Dark-Desktop](lessons/lesson-02-dark-desktop.png)
+![Lesson-03-Dark-Desktop]
 
 #### Dark - Mobile
 
-![Lesson-02-Dark-Mobile](/lessons/lesson-02-dark-mobile.png)
+![Lesson-03-Dark-Mobile]
 
 #### Light - Desktop
 
-![Lesson-02-Light-Desktop](/lessons/lesson-02-light-desktop.png)
+![Lesson-03-Light-Desktop]
 
 #### Light - Mobile
 
-![Lesson-02-Light-Mobile](/lessons/lesson-02-light-mobile.png)
+![Lesson-03-Light-Mobile]
