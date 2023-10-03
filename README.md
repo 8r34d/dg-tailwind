@@ -38,26 +38,6 @@ https://github.com/8r34d/dg-tailwind/tree/lesson-02
 
 https://github.com/8r34d/dg-tailwind/tree/lesson-03
 
-#### Dark - Desktop Tallscreen
+### Lesson 04
 
-![Lesson-03-Dark-Desktop-Tallscreen](/lessons/lesson-03-dark-desktop-tallscreen.png)
-
-#### Dark - Desktop Widescreen
-
-![Lesson-03-Dark-Desktop-Widescreen](/lessons/lesson-03-dark-desktop-widescreen.png)
-
-#### Dark - Mobile
-
-![Lesson-03-Dark-Mobile](/lessons/lesson-03-dark-mobile.png)
-
-#### Light - Desktop Tallscreen
-
-![Lesson-03-Light-Desktop-Tallscreen](/lessons/lesson-03-light-desktop-tallscreen.png)
-
-#### Light - Desktop Widescreen
-
-![Lesson-03-Light-Desktop-Widescreen](/lessons/lesson-03-light-desktop-widescreen.png)
-
-#### Light - Mobile
-
-![Lesson-03-Light-Mobile](/lessons/lesson-03-light-mobile.png)
+https://github.com/8r34d/dg-tailwind/tree/lesson-04
