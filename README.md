@@ -41,3 +41,7 @@ https://github.com/8r34d/dg-tailwind/tree/lesson-03
 ### Lesson 04
 
 https://github.com/8r34d/dg-tailwind/tree/lesson-04
+
+### Lesson 05
+
+https://github.com/8r34d/dg-tailwind/tree/lesson-05
